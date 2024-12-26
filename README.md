@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[insert current learning topic or technology]**
+- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **[insert any area you need help with]**
+- 🤔 I’m looking for help with **DevOps**
 - 💬 Ask me about **Python, JavaScript, and web development**
-- 📫 How to reach me: **[your email or LinkedIn profile]**
-- ⚡ Fun fact: **[insert a fun fact about yourself]**
+- 📫 How to reach me: **www.linkedin.com/in/BlllY**
+- ⚡ Fun fact: **Work all time**
 
 ## 🛠️ Technologies & Tools
 
